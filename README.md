@@ -3,7 +3,7 @@ Readme for 🎨⚙ CSS Responsive Settings.
 
 ## GET STARTED 🚀
 
-### ROOT.CSS
+### Root
 
 #### *
 
